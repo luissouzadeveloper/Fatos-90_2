@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@font-face{
+    font-family: Crime;
+    src: url(../fonts/Classic\ Robot.otf);
+    font-weight: normal;
+}
+
+:root{
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-crime: 'Crime', cursive;
+
+    --cor1: #e12c22;
+    --cor2: #d42b2b;
+    --cor3: #000;
+    --cor4: #b1b1b1;
+}
+
+/*Geral*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*Principal*/
+body{
+    background-color: #e0e0e0;
+}
+/*Menu*/
+nav{
+    background-color: var(--cor2);
+    padding: 5px;
+    text-align: center;
+}
+
+nav > a{
+    color: var(--cor3);
+    text-decoration: none;
+    padding: 7px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+/*Cabeçalho*/
+header{
+    background-color: var(--cor1);
+    height: 60px;
+}
+
+header > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 10px;
+}
+/*Conteúdo principal*/
+main{
+    max-width: 800px;
+    min-width: 300px;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    text-align: justify;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.493);
+    border-radius: 7px;
+}
+
+article img{
+    width: 100%;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.493);
+}
+/*Conteúdo adicional*/
+aside{
+    background-color: var(--cor2);
+    padding: 5px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.493);
+}
+
+aside ul{
+    list-style-type: '\2714\00A0';
+    list-style-position: inside;
+}
+
+aside a{
+    text-decoration: none;
+    color: var(--cor3);
+}
+aside li{
+    line-height: 2em;
+}
+
+aside a:hover{
+    text-decoration: underline;
+}
+
+/*Título principal*/
+article > h1{
+    font-family: Crime;
+    font-size: 2em;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to right, var(--cor2), transparent);
+    padding: 5px;
+    text-align: left;
+}
+/*Subtitulo*/
+article > h2{
+    font-family: var(--fonte-crime);
+    font-size: 1.5em;
+    margin: 10px;
+    text-align: left;
+}
+
+article h3{
+    font-family: var(--fonte-crime);
+    font-size: 1.5em;
+    margin: 10px; 
+    text-align: left;  
+}
+/*Parágrafo*/
+article > p{
+    margin: 10px;
+}
+/*Vídeo*/
+.video{
+    margin: 0px 5px 10px 5px;
+    position: relative;
+}
+
+.video > iframe{
+    top: 5%;
+    left: 5%;
+    width: 100%;
+    height: 300px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.493);
+}
+
+/*Rodapé*/
+footer{
+    background-color: var(--cor1);
+    height: 36px;
+}
+
+footer > p{
+    padding: 10px;
+    text-align: center;
+}
+
+footer img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
