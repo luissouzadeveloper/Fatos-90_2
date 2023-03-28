@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Fatos 90 - Linha direta
 
-You can use the [editor on GitHub](https://github.com/luissouzadeveloper/Fatos-90_2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://noticiasdatv.uol.com.br/media/_versions/artigos_2021/domingos-meirelles-linha-direta-globo-fenomeno-youtube-reproducao-grande_fixed_large.jpg" alt="Domingos Meirelles">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>O linha direta foi um programa jornalístico policial que retratava crimes cruéis. O programa houve duas versões, a primeira sendo em 1990 com o apresentador Hélio Costa e a segunda com Marcelo Rezende e com Domingos Meirelles exibidas entre 1999 a 2007. Em 2023, a globo anuncia a volta do programa que será reformulado para os dias atuais, no momento que escrevo isso, o programa ainda não retornou ao ar, mas em breve ele estará na grade da programação da Rede Globo</p>
 
-### Markdown
+<p>Fiz esse site por ser um fã do programa, mesmo tendo nascido alguns meses após sua estreia em 1999. Além disso, fiz esse projeto para treinar minhas habilidades com o desenvolvimento web, pois, eu quero me tornar um desenvolvedor.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tecnologias utilizadas:
 
-```markdown
-Syntax highlighted code block
+<div>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
+    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp">
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+## Link de acesso: 
 
-- Bulleted
-- List
+<a href="https://luissouzadeveloper.github.io/Fatos-90_2/" target="_blank">Fatos 90 - Linha direta</a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luissouzadeveloper/Fatos-90_2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
